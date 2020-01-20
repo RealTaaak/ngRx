@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "phone": "01094476217",
+      "address": "seoul",
+      "membership": "Platinum",
+      "id": 1
+    },
+    {
+      "name": "Mary Johnson",
+      "phone": "01085176217",
+      "address": "busan1",
+      "membership": "Pro",
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "phone": "01094446641",
+      "address": "13s1265",
+      "membership": "Pro",
+      "id": 3
+    }
+  ],
+  "products" : [
+    {
+        "name" : "Galaxy7 Edge",
+        "company" : "Samsung",
+        "price" : "$4",
+        "id" : "1"
+    }
+
+  ]
+}
